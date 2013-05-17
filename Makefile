@@ -1,6 +1,6 @@
 # Nueva linea
 PROJ=ejemplo1
-
+# agregar linea local
 CC=gcc
 
 CFLAGS=-std=c99 -Wall -DUNIX -g -DDEBUG
